@@ -2,7 +2,7 @@ package org.simplilear.maven.simplemaven;
 
 /**
  * Hello world! added author details
- * added from Git to check updaed on GitHub
+ * added from Git to check updaed on GitHub...
  */
 public class App 
 {
