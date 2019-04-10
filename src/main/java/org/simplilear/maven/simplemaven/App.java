@@ -1,7 +1,7 @@
 package org.simplilear.maven.simplemaven;
 
 /**
- * Hello world!
+ * Hello world! added author details
  *
  */
 public class App 
