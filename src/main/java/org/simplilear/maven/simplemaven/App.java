@@ -3,6 +3,7 @@ package org.simplilear.maven.simplemaven;
 /**
  * Hello world! added author details
  * added from Git to check updaed on GitHub...
+ * added for child branch
  */
 public class App 
 {
